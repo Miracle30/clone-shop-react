@@ -1,0 +1,16 @@
+components
+    mục đích: mọi thứ trông như thế nào  (css)
+    đọc dữ liệu từ props
+    Thay đổi dữ liệu = cách thực hiệN lời gọi qua props
+    Tạo bằng tay
+Container
+    cách mọi thứ hoạt động (tải dữ liệu, cập nhập state)
+    có nhận thức về redux
+    Gọi lên state trên redux (store)
+    thay đổi dữ liệU = dispatch 1 redux action
+    tạo bởi react redux
+
+dùng vòng lặp -> có key
+
+Sau khi thêm sp vào cart, kiểm tra xem sản phẩm đc thêm có trùng id key
+-> cập nhập số lượng
